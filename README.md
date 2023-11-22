@@ -25,7 +25,11 @@ Antes de comenzar, asegúrate de tener instalado en tu máquina:
         DATABASE=
         PORT=
 
-4. **Ejecuta la aplicacion**
+4. **Copiar el codigo sql del scriptBD y crear la base de datos local**
+    ```bash
+       scriptBD.sql
+
+5. **Ejecuta la aplicacion**
     ```bash
         npm run dev
 
