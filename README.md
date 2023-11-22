@@ -4,8 +4,9 @@
 
 Antes de comenzar, asegúrate de tener instalado en tu máquina:
 
-- Node.js (versión X.X.X o superior)
-- npm (normalmente se instala con Node.js)
+- Node.js 
+- npm
+- mysql
 
 ## Configuración del Proyecto
 
